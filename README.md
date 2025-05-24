@@ -4,6 +4,8 @@ Clipboard Owoifier is an AutoHotkey v2 script that transforms ("Owoifies") selec
 
 Made using AutoHotKey V2 ❤
 
+* Use at your own peril. Some people may find you annoying, so try to be polite.
+
 ## Features
 
 - Owoifies selected text with fun transformations
