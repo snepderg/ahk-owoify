@@ -1,4 +1,4 @@
-# Clipboard Owoifier
+# Clipboard Owoifier (ahk-owoify)
 
 Clipboard Owoifier is an AutoHotkey v2 script that transforms ("Owoifies") selected text in any application, such as Discord, by applying playful text modifications. It supports toggling features like forced lowercase, stuttering, and appending cute phrases after punctuation.
 
