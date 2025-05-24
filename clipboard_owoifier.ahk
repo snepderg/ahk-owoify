@@ -120,6 +120,8 @@ processOwoify(*) {
     Send "^v"
     Sleep 100
     A_Clipboard := ClipSaved
+    ; Clear ClipSaved for privacy
+    ClipSaved := ""
 }
 
 ShowHelp() {
