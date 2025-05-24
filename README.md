@@ -14,6 +14,7 @@ Made using AutoHotKey V2 ❤
 - Option to force all text to lowercase
 - Special handling for Discord code blocks
 - Easy-to-use hotkeys for toggling features
+**Restores your clipboard after processing, so your original clipboard content is preserved**
 
 ## Hotkeys
 
